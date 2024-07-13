@@ -1,4 +1,4 @@
-# Apache Kafka Application with Spring Boot
+# Apache Kafka Application with Spring Boot (End User)
 
 ## Introduction
 This project is a Spring Boot application that integrates with Apache Kafka for messaging. It demonstrates how to produce and consume messages with Kafka, providing a robust and scalable solution for message-driven architectures.
